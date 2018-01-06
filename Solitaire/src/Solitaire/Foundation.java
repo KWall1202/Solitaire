@@ -5,7 +5,6 @@ import java.util.ArrayList;
 /*
  * A foundation class to be used in a solitaire game
  * @Author Kevin Wallace
- * @Date January 3rd, 2018
  */
 public class Foundation {
 	private ArrayList<Card> foundation = new ArrayList<>();

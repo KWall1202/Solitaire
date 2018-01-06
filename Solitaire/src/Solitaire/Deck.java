@@ -7,7 +7,6 @@ import java.util.Collections;
  * A deck class to be used in a solitaire game
  * Aces have value 1
  * @Author Kevin Wallace
- * @Date January 3rd, 2018
  */
 public class Deck {
 	private ArrayList<Card> deck = new ArrayList<>();

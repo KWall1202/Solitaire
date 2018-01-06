@@ -3,7 +3,6 @@ package Solitaire;
 /*
  * A node in a linked list to create the piles in the tableau
  * @author Kevin Wallace
- * @date January 3rd, 2018
  */
 public class TableauPileNode {
 	private TableauPileNode next = null;

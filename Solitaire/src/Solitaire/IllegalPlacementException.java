@@ -3,7 +3,6 @@ package Solitaire;
 /*
  * An exception to occur when an attempt is made to place a card somewhere illegal during a game of Solitaire
  * @author Kevin Wallace
- * @date January 3rd, 2018
  */
 public class IllegalPlacementException extends Exception {
 
